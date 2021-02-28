@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Raleway:100,200,300,400,500,600,700');
+
+/* ---------------------------------------------------------Colours & Fonts */
+.font-white {
+    color: #F8F9FA;
+}
+
+.font-quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-lg {
+    background-color: #AAAABC;
+}
+
+.bg-dg {
+    background-color: #454555;
+}
+
+.bg-bl {
+    background-color: #4169E1;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* ---------------------------------------------------------Header */
+#header-general {
+    padding: 0px;
+}
+
+#header-image {
+    background-image: url(../images/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+#title {
+    color: #F8F9FA;
+    margin-top: 50px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+}
+
+#title-link:hover {
+    text-decoration: none;
+}
+
+.navbar {
+    border-bottom: 1px solid #AAAABC;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+/* ---------------------------------------------------------Footer */
+
+footer {
+    text-align: center;
+}
+
+.contact-details {
+    margin-bottom: 16px;
+}
+
+.contact-details p {
+    margin-bottom: 8px;
+}
+
+.sp-links {
+    margin-bottom: 8px;
+}
+
+.footer-general {
+    padding: 25px 5px;
+    color: #F8F9FA;
+}
+
+.sp-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    margin-right: 5px;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 7px;
+    text-align: center;
+    background-color: #AAAABC;
+    color: #F8F9FA;
+}
+
+.sp-links li a i:hover {
+    color: #4169E1;
+}

@@ -87,6 +87,46 @@ h5 {
     /* code from this post https://stackoverflow.com/questions/5738985/is-it-possible-to-have-css-rounded-corners-on-an-iframe#:~:text=5%20Answers&text=The%20div%20container%20method%20described,Radius%20CSS%20works%20for%20me.&text=The%20border%2Dradius%20should%20be,(if%20any)%20rounded%20corners. */
 }
 
+/* ---------------------------------------------------------Club */
+
+.general-club {
+    padding: 0px;
+    background-color: #F8F9FA;
+}
+
+.club-content {
+    min-height: 200px;
+    padding: 22px 20px !important;
+    color: #F8F9FA;
+    border-radius: 4%;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* ---------------------------------------------------------For Pilots */
+
+/* ---------------------------------------------------------Contact */
+
+#form-wrapper {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-color: #F8F9FA;
+}
+
+.form-general {
+    font-family: 'Raleway', sans-serif;
+}
+
+#question {
+    height: 200px;
+}
+
+.form-title {
+    margin-bottom: 15px;
+}
+
+.form-bottom {
+    margin-bottom: 0px;
+}
 
 /* ---------------------------------------------------------Footer */
 

@@ -104,6 +104,27 @@ h5 {
 
 /* ---------------------------------------------------------For Pilots */
 
+.pilots-general {
+    background-color: #F8F9FA;
+}
+
+.big-link {
+    width: 64px;
+    height: 64px;
+    padding: 12px 0;
+    margin-right: 5px;
+    border-radius: 50%;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #AAAABC;
+    color: #F8F9FA;
+}
+
+.big-link:hover {
+    color: #4169E1;
+}
+
 /* ---------------------------------------------------------Contact */
 
 #form-wrapper {
